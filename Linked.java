@@ -1,6 +1,6 @@
 // Java program to rotate a linked list
 
-class LinkedList {
+class Linked {
 	Node head; // head of list
 
 	/* Linked list Node*/
@@ -95,7 +95,7 @@ class LinkedList {
 	/* Driver program to test above functions */
 	public static void main(String args[])
 	{
-		LinkedList llist = new LinkedList();
+		Linked llist = new Linked();
 
 		// create a list 10->20->30->40->50->60
 		for (int i = 60; i >= 10; i -= 10)
