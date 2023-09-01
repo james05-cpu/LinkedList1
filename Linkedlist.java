@@ -44,7 +44,7 @@ class LinkedList {
 	// Driver Code
 	public static void main(String[] args)
 	{
-		LinkedList list = new LinkedList();
+		Linkedlist list = new Linkedlist();
 		list.head = new Node(85);
 		list.head.next = new Node(15);
 		list.head.next.next = new Node(4);
