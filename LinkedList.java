@@ -1,5 +1,5 @@
 // A complete working Java program to delete a node in a
-// linked list at a given position
+// linked list at a givenpost
 import java.io.*;
 class LinkedList {
 	Node head; // head of list
